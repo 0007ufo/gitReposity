@@ -1,2 +1,2 @@
 git is a good thing
-you know i like it 
+you know i not like it 
